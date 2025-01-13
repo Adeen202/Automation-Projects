@@ -20,7 +20,8 @@ that gets triggered when an email is sent
 ![image](https://github.com/user-attachments/assets/3cd68c09-cccd-4ca3-abb8-638d94943964)
 
 
-**Step 3:** Setting Up The Email Module
+**Step 3:** 
+### Setting Up The Email Module
 
 Move to the scenario tab and select the email module.
 

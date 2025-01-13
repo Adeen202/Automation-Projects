@@ -6,7 +6,8 @@ To create an automated workflow using Make.com that processes meeting confirmati
 
 ![image](https://github.com/user-attachments/assets/0fc308ba-bd4c-4b84-a131-d4d0c6616daa)
 
-Overview
+## Overview
+The task involves creating an automated workflow in Make.com to process meeting confirmation emails, extract relevant details using a text parser, and create Google Calendar events. The workflow begins with receiving and filtering emails based on specific criteria, parsing the email content to extract fields like date, time, duration, and contact details using test parser, and then using the Google Calendar module to schedule events with a structured name, description, and attendees. The document includes the configured Make.com scenario, and documentation of the approach.
 
 **Step1:** 
 ### Making An Account On <https://www.make.com/> 

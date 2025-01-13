@@ -1,6 +1,4 @@
-Automated Meeting Scheduling Workflow Using Make.com
-
-Objective
+##Objective
 
 To create an automated workflow using Make.com that processes meeting confirmations received via email and converts them into Google Calendar events with specific details.
 
